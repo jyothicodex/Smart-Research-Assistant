@@ -8,6 +8,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
 ---
+##Live Demo- https://huggingface.co/spaces/jyothi06/smart-assistant-research
 
 ## 🚀 Overview
 **Smart Research Assistant** is an **AI-driven Streamlit application** that simplifies research and report creation.  
