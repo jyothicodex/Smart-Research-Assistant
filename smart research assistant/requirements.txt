@@ -1,6 +1,6 @@
 streamlit
 openai
+PyPDF2
 python-docx
 reportlab
-PyPDF2
 
