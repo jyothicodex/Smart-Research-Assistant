@@ -1,4 +1,6 @@
-streamlit>=1.49.1
-openai>=1.0.0
-PyPDF2
+streamlit
+openai
 python-docx
+reportlab
+PyPDF2
+
