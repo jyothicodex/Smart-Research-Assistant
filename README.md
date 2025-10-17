@@ -9,7 +9,7 @@
 
 ---
 ##Live Demo- https://huggingface.co/spaces/jyothi06/smart-assistant-research
-
+---
 ## 🚀 Overview
 **Smart Research Assistant** is an **AI-driven Streamlit application** that simplifies research and report creation.  
 It allows users to upload PDFs, DOCX, or TXT files, add live feed updates, and ask any research question.  
