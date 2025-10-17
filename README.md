@@ -52,3 +52,8 @@ The system uses **OpenAI’s GPT models** to generate structured reports contain
    ```bash
    git clone https://github.com/yourusername/smart-research-assistant.git
    cd smart-research-assistant
+
+---
+## ScreenShot
+<img width="1919" height="793" alt="image" src="https://github.com/user-attachments/assets/80e7261f-8abb-4a94-b5da-41668bac05d4" />
+
