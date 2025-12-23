@@ -4,7 +4,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red)
-![OpenAI](https://img.shields.io/badge/AI-OpenAI%20GPT-orange)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
 ---
